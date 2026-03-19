@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**barei-dev/barei-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎹 Hello, World! I'm Barei
 
-Here are some ideas to get you started:
+> Hi! I'm Barei, student programmer & pianist. 🎹
+> Fluent in HTML, CSS & "Asking AI to fix my bugs."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Current Status
+* **Coding:** 10%
+* **Staring at screen:** 90% (usually a missing semicolon)
+
+### 🎼 My Philosophy
+"When I hit the wrong key on piano, it’s **jazz**. On VS Code, it’s a **syntax error**."
+
+---
+
+### 🔗 Links
+- **Twitter:** [https://x.com/barei_dev](https://x.com/barei_dev)
+- **GitHub:** You're already staring at it.
+- **YouTube:** [https://www.youtube.com/@barei-potato](https://www.youtube.com/@barei-potato)
+
+---
+
+**Glad to meet you!**
